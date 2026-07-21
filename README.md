@@ -58,9 +58,6 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=aroravansh00123-eng&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroravansh00123-eng&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroravansh00123-eng&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
