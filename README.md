@@ -2,7 +2,7 @@
 
 <!-- ================= HEADER BANNER ================= -->
 <!-- Edit text= to change your name, desc= to change the tagline -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=200&section=header&text=Vansh%20Arora&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20·%20Web%20Developer%20·%20Founder%20@TechieVR&descAlignY=55&descSize=16&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=200&section=header&text=Vansh%20Arora&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20·%20Red%20Teamer%20·%20Founder%20@TechieVR&descAlignY=55&descSize=16&descColor=ffffff" />
 
 <br/>
 
