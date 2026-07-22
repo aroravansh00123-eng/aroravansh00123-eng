@@ -50,18 +50,6 @@
 
 </div>
 
-<br/>
-
-<!-- ================= GITHUB STATS ================= -->
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=aroravansh00123-eng&show_icons=true&theme=radical&hide_border=true" height="165" />
-
-</div>
-
-<br/>
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
@@ -70,7 +58,40 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aroravansh00123-eng&theme=react-dark&hide_border=true" width="100%"/>
 
+<div align="center">
+
+
+
+# <span style="color:#58A6FF;"> My Profile Views</span>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=aroravansh00123-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/stars/aroravansh00123-eng?style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/aroravansh00123-eng?label=Followers&style=for-the-badge&color=0e75b6"/>
+</td>
+</tr>
+</table>
 </div>
+
+
+
+<h2 align="center">GitHub Stats & Contributions</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aroravansh00123-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroravansh00123-eng&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
